@@ -1,5 +1,8 @@
 # Terraform Examples
 
+## CLI Usage
+- Command line examples of Terraform commands
+
 ## Core Concepts
 - Data sources
 - locals
