@@ -10,6 +10,7 @@
 - providers
 - state
 - variables
+- modules
 
 ## AWS
 - Creating & populating S3 buckets
